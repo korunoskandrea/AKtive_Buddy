@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436003336809",
+    "project_id": "aktivebuddy",
+    "storage_bucket": "aktivebuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436003336809:android:e4170de540f497ca4168f8",
+        "android_client_info": {
+          "package_name": "com.example.aktivebuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4pYhVfVH6PNRJQreNNT5q3Yd2nYOLMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

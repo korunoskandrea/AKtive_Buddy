@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AKtiveBuddy</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_date_of_birth">Enter your date of birth</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="fitness_centers">Fitness Centers</string>
+    <string name="back">Back</string>
+    <string name="map">Map</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">Channel description</string>
+</resources>
