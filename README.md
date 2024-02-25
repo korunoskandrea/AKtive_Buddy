@@ -16,7 +16,7 @@ The goal of the app is to facilitate users in finding exercise locations and enc
 - Kotlin
 - Google Maps API (or other maps API)
 - Push Notification Service
-- MongoDB
+- Firebase Firestore
 
 ## Installation Instructions
 
